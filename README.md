@@ -45,14 +45,16 @@ print(InfinityNorm)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![CODE_page-0001](https://github.com/user-attachments/assets/a70f72cf-368c-42be-bef1-343d166fd3e9)
+<img width="1221" height="427" alt="Screenshot 2026-02-27 214823" src="https://github.com/user-attachments/assets/dda47ed4-c723-43e1-99e9-d0dfbccf0494" />
 
 
 ### 2-Norm of a Matrix
-![CODE_page-0002](https://github.com/user-attachments/assets/7d07855f-6e6a-4dff-932c-0a73f39aa1a3)
+<img width="1175" height="620" alt="Screenshot 2026-02-27 214914" src="https://github.com/user-attachments/assets/63f473d5-f767-48be-b907-d0358f313c1d" />
 
-### Infinity Norm of a Matrix
-![CODE_page-0003](https://github.com/user-attachments/assets/796c7d7d-ef4e-4a92-b160-0f2c3f9f7d65)
+
+### 3-Infinity Norm of a Matrix
+<img width="1204" height="365" alt="Screenshot 2026-02-27 215017" src="https://github.com/user-attachments/assets/e8027a15-9507-4692-bf5e-21bfee3b815d" />
+
 
 
 ## Result
